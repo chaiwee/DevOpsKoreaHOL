@@ -1,4 +1,5 @@
 # Azure DevOps HOL
+# Hello this is my first commit 20190807
 
 [DevOps Korea Meetup](http://meetup.devopskorea.com/201906/) 행사에서 진행하는 Hands on Lab입니다.
 
